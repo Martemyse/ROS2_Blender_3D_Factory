@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# ROS 2 workspace builds
+turtlebot3_ws/build/
+turtlebot3_ws/install/
+turtlebot3_ws/log/
+
+# Generated artifacts (keep intentional assets under text_3d_models/)
+output.sdf
+test.sdf
+
+

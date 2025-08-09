@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+# Treat common asset types appropriately
+*.dae binary
+*.mtl text
+*.sdf text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+
+

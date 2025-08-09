@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+    <sdf version='1.6'>
+      <model name='L8403'>
+        <link name='link'>
+          <visual name='visual'>
+            <geometry>
+              <mesh>
+                <uri>model://localros/text_3d_models/L8403/L8403.dae</uri>
+              </mesh>
+            </geometry>
+          </visual>
+        </link>
+      </model>
+    </sdf>

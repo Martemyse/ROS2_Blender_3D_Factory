@@ -1,0 +1,4 @@
+# Host Python dependencies for non-Blender scripts
+Shapely>=2.0
+
+
